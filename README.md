@@ -10,9 +10,9 @@
 
 #### Nova Loader : temp https://github.com/EternalMC/Nova-mod-loader-fabric/
 
-###Installion : 
+### Installion : 
 
-####TODO
+#### TODO
 
 ## Setup
 
